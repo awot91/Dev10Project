@@ -1,0 +1,51 @@
+@font-face {
+  
+	font-family: 'Muli';
+  
+	font-style: normal;
+  
+	font-weight: 400;
+  
+	src: local('Muli Regular'), local('Muli-Regular'), url(https://fonts.gstatic.com/s/muli/v11/7Auwp_0qiz-afTLGKw.woff) format('woff');
+
+}
+
+@font-face {
+
+	font-family: 'Muli';
+  
+	font-style: normal;
+  
+	font-weight: 700;
+  
+	src: local('Muli Bold'), local('Muli-Bold'), url(https://fonts.gstatic.com/s/muli/v11/7Au_p_0qiz-adYnjOCX2yQ.woff) format('woff');
+
+}
+
+
+header, footer {
+	font-family:muli;
+    
+}
+
+#container3 {	
+	background-color: #d5d5d5;
+	height: 100%;
+
+}
+
+a:visited { 
+     	color:red ;
+ }
+a:hover{
+	font-weight:900;
+}
+
+a:active {
+	text-decoration: none;
+}
+hr {
+				border: solid 1px;
+			}
+
+
